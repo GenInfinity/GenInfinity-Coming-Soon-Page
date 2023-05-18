@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "NeueMontrealRegular";
+    src: url("./assets/fonts/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Regular.otf");
+}
+
+@font-face {
+    font-family: "NeueMontrealBold";
+    src: url("./assets/fonts/neue-montreal-free-demo-pangram-pangram-030418/NeueMontreal-Bold.otf");
+}
