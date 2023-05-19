@@ -21,7 +21,7 @@ const App = () => {
       <h2 className="text-white text-5xl md:text-7xl lg:text-9xl mb-8 font-NeueMontrealBold font-bold text-center">
         Coming Soon
       </h2>
-      <p className="font-bold text-white text-center mb-11 font-NeueMontrealRegular">
+      <p className="font-bold text-white md:text-xl lg:text-2xl text-center mb-11 font-NeueMontrealRegular">
         Gen Infinity is a DAO-based NFT project, that gives the community complete control on how the project should be ran and how its fund should be spent
       </p>
       <div className="flex justify-center gap-16">
