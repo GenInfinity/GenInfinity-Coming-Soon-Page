@@ -18,7 +18,7 @@ const App = () => {
       <h1 className="text-3xl md:text-6xl font-bold mb-8 text-center">
         <span className="text-[#3E918D] font-['Clash_Display']">Gen</span><span className="text-[#3FFEF7] font-NeueMontrealBold">Infinity</span>
       </h1>
-      <h2 className="text-white text-6xl md:text-9xl mb-8 font-NeueMontrealBold font-bold text-center">
+      <h2 className="text-white text-5xl md:text-7xl lg:text-9xl mb-8 font-NeueMontrealBold font-bold text-center">
         Coming Soon
       </h2>
       <p className="font-bold text-white text-center mb-11 font-NeueMontrealRegular">
